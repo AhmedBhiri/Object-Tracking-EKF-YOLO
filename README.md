@@ -1,7 +1,7 @@
 # ⚽ Object Tracking with YOLOv11 & Kalman Filter
 
 🧑‍💻 Author
-⚽ Built with Football Love by a Caffeinated Ahmed Bhiri ☕
+⚽ Built with Football Love on highly Caffeinated Code Sessions ☕
 
 
 A lightweight real-time system for tracking soccer ball movement in broadcast footage using a Kalman Filter and YOLOv11. Designed for handling partial occlusions, missed detections, and camera motion using confidence-aware prediction.
