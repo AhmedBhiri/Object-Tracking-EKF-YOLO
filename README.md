@@ -15,11 +15,8 @@ A lightweight real-time system for tracking soccer ball movement in broadcast fo
 
 ## 🎬 Example Output Video
 
-➡️ [Watch 573e61_0_result_1.mp4](vids/573e61_0_result_1.mp4)  
-➡️ [Watch 08fd33_0_result_1.mp4](vids/08fd33_0_result_1.mp4)
+[![Watch the demo](https://img.icons8.com/color/48/000000/play-button-circled--v1.png)](https://drive.google.com/file/d/1-N3WGmM-LseNHS0ktyKw9eAOg_5pyGdG/view?usp=sharing)
 
-<!-- Optionally convert to GIF and embed like below -->
-<!-- ![Tracking Preview](assets/sample_output.gif) -->
 
 ---
 
