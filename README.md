@@ -13,6 +13,16 @@ A lightweight real-time system for tracking soccer ball movement in broadcast fo
 ---
 
 
+## 🎬 Example Output Video
+
+➡️ [Watch 573e61_0_result_1.mp4](vids/573e61_0_result_1.mp4)  
+➡️ [Watch 08fd33_0_result_1.mp4](vids/08fd33_0_result_1.mp4)
+
+<!-- Optionally convert to GIF and embed like below -->
+<!-- ![Tracking Preview](assets/sample_output.gif) -->
+
+---
+
 ## 🎯 Project Goals
 
 - Detect soccer ball, players, goalkeepers, and referees in match footage.
