@@ -1,12 +1,12 @@
 # ⚽ Object Tracking with YOLOv11 & Kalman Filter
 
-🧑‍💻 Author
-⚽ Built with Football Love on highly Caffeinated Code Sessions ☕
-
-
 A lightweight real-time system for tracking soccer ball movement in broadcast footage using a Kalman Filter and YOLOv11. Designed for handling partial occlusions, missed detections, and camera motion using confidence-aware prediction.
 
 ---
+##🧑‍💻Author
+⚽ Built with Football Love on highly Caffeinated Code Sessions ☕  
+---
+
 
 ## 🎯 Project Goals
 
@@ -39,20 +39,27 @@ A lightweight real-time system for tracking soccer ball movement in broadcast fo
 
 4. 📊 **Evaluation**  
    Errors (mean, RMSE, max) between prediction and ground truth are visualized and stored.
+
 ---
-🧠 Kalman Filter Model
 
-Tracks [x, y, vx, vy, ax, ay] using a constant acceleration model:
+## 🧠 Kalman Filter Model
 
+Tracks `[x, y, vx, vy, ax, ay]` using a constant acceleration model:
+
+```
 state = [position_x, position_y, velocity_x, velocity_y, acceleration_x, acceleration_y]
+```
 
 ---
+
 ## 🖼️ Sample Output
 
-| Annotated Detection | Kalman Prediction | CSV Logging         |
-|---------------------|-------------------|----------------------|
+| Annotated Detection | Kalman Prediction       | CSV Logging              |
+|---------------------|-------------------------|---------------------------|
 | ✅ Players & Ball    | ✅ Predicted Trajectory | ✅ Saved as `positions.csv` |
+
 ---
+
 ## 📁 Directory Structure
 
 ```
@@ -69,9 +76,12 @@ Object-Tracking-EKF-YOLO/
 
 ---
 
-📝 Citation / Credits
+## 📝 Citation / Credits
+
+- YOLOv11 via [Ultralytics](https://github.com/ultralytics/ultralytics)
+- Roboflow dataset: `football-players-detection-3zvbc`
+- `Supervision` library for annotations
+
 ---
-YOLOv11 via Ultralytics
-Roboflow dataset: football-players-detection-3zvbc
-Roboflow for frame annotations
+
 
