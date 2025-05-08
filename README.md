@@ -39,19 +39,19 @@ A lightweight real-time system for tracking soccer ball movement in broadcast fo
 
 4. 📊 **Evaluation**  
    Errors (mean, RMSE, max) between prediction and ground truth are visualized and stored.
-
+---
 🧠 Kalman Filter Model
 Tracks [x, y, vx, vy, ax, ay] using a constant acceleration model:
 state = [position_x, position_y, velocity_x, velocity_y, acceleration_x, acceleration_y]
-
+---
 🖼️ Sample Output
 Annotated Detection	Kalman Prediction	CSV Logging
 ✅ Players & Ball	✅ Predicted Trajectory	✅ Saved as positions.csv
 
-
+---
 📁 Directory Structure
 
-Object-Tracking-EKF-YOLO/
+Object-Tracking-EKF-YOLO/ 
 ├── track_ball.py
 ├── kalman_filter.py
 ├── yolov11_training.ipynb
@@ -61,8 +61,9 @@ Object-Tracking-EKF-YOLO/
 │   ├── 121364_0_result_1.mp4
 ├── positions.csv
 
-
+---
 📝 Citation / Credits
+---
 YOLOv11 via Ultralytics
 Roboflow dataset: football-players-detection-3zvbc
 Roboflow for frame annotations
