@@ -48,8 +48,8 @@ state = [position_x, position_y, velocity_x, velocity_y, acceleration_x, acceler
 
 ---
 🖼️ Sample Output
-Annotated Detection	Kalman Prediction	CSV Logging
-✅ Players & Ball	✅ Predicted Trajectory	✅ Saved as positions.csv
+Annotated Detection	   Kalman Prediction	         CSV Logging
+✅ Players & Ball      	✅ Predicted Trajectory	   ✅ Saved as positions.csv
 
 ---
 📁 Directory Structure
