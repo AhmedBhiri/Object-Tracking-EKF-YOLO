@@ -3,8 +3,13 @@
 A lightweight real-time system for tracking soccer ball movement in broadcast footage using a Kalman Filter and YOLOv11. Designed for handling partial occlusions, missed detections, and camera motion using confidence-aware prediction.
 
 ---
-##🧑‍💻Author
+
+
+## 🧑‍💻 Author
+
 ⚽ Built with Football Love on highly Caffeinated Code Sessions ☕  
+
+
 ---
 
 
