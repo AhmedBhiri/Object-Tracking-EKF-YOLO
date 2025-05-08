@@ -16,7 +16,7 @@ A lightweight real-time system for tracking soccer ball movement in broadcast fo
 ## 🎬 Example Output Video
 
 
-[![Watch the demo](assets/1.jpg)](https://drive.google.com/file/d/1-N3WGmM-LseNHS0ktyKw9eAOg_5pyGdG/view?usp=sharing)
+[![Watch the demo](assets/1.png)](https://drive.google.com/file/d/1-N3WGmM-LseNHS0ktyKw9eAOg_5pyGdG/view?usp=sharing)
 
 
 
