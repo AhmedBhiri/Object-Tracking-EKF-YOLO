@@ -54,23 +54,15 @@ Annotated Detection	Kalman Prediction	CSV Logging
 ---
 📁 Directory Structure
 
-Object-Tracking-EKF-YOLO/ 
-
+Object-Tracking-EKF-YOLO/
 ├── track_ball.py
-
 ├── kalman_filter.py
-
 ├── yolov11_training.ipynb
-
 ├── inference.ipynb
-
 ├── vids/
-
-│   ├── 121364_0.mp4
-
-│   ├── 121364_0_result_1.mp4
-
-├── positions.csv
+│ ├── 121364_0.mp4
+│ └── 121364_0_result_1.mp4
+└── positions.csv
 
 ---
 📝 Citation / Credits
